@@ -4,6 +4,8 @@ use of var, let and const
 Prefer not to use the var nowadays
 "let" is used for  the declaration and can be changed.
 
+"var" is not used for the JS as problem for the block scope and functional scope issue
+
 Note That - In JS, no need to declare the type and JS will pick them type on its own.
 */
 
